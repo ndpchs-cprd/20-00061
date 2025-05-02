@@ -1,0 +1,152 @@
+medcodeid,term,qofclusterid,qofclusterdesc,qofsnomedctconceptid,snomedctdescriptionid
+103531000006110,Tonic-clonic epilepsy,EPIL_COD,Epilepsy diagnosis codes,352818000,472410017
+10791000006116,Other specified generalised nonconvulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,192979009,297263012
+1173961000000112,[D]Nocturnal seizure,EPIL_COD,Epilepsy diagnosis codes,230445007,3491799017
+11926151000006111,Infantile spasms,EPIL_COD,Epilepsy diagnosis codes,28055006,46969011
+125721000006111,"Status epilepticus, unspecified",EPIL_COD,Epilepsy diagnosis codes,230456007,345339019
+12602012,Petit mal status,EPIL_COD,Epilepsy diagnosis codes,7033004,501555012
+148427014,Gelastic epilepsy,EPIL_COD,Epilepsy diagnosis codes,89525009,148427014
+148591000006114,Sensory induced epilepsy,EPIL_COD,Epilepsy diagnosis codes,79745005,1234392012
+178739011,Epilepsy,EPIL_COD,Epilepsy diagnosis codes,84757009,178739011
+2159274014,Complex partial epileptic seizure,EPIL_COD,Epilepsy diagnosis codes,407675009,2159274014
+223781000000116,Unverricht - Lundborg disease,EPIL_COD,Epilepsy diagnosis codes,230423006,345289013
+223811000000118,Grand mal (major) epilepsy,EPIL_COD,Epilepsy diagnosis codes,19598007,479713017
+230321000006117,Petit mal (minor) epilepsy,EPIL_COD,Epilepsy diagnosis codes,509341000000107,1132511000000113
+23819016,Grand mal status,EPIL_COD,Epilepsy diagnosis codes,13973009,23819016
+23820010,Status epilepticus,EPIL_COD,Epilepsy diagnosis codes,230456007,345339019
+245341000006117,Partial epilepsy without impairment of consciousness,EPIL_COD,Epilepsy diagnosis codes,230381009,345224018
+245351000006115,Partial epilepsy without impairment of consciousness NOS,EPIL_COD,Epilepsy diagnosis codes,230381009,345227013
+245361000006118,Partial epilepsy without impairment of consciousness OS,EPIL_COD,Epilepsy diagnosis codes,230381009,345227013
+2474650018,Stress-induced epilepsy,EPIL_COD,Epilepsy diagnosis codes,413101007,2474650018
+2478828012,Traumatic epilepsy,EPIL_COD,Epilepsy diagnosis codes,75023009,2478828012
+2502351000006114,Epilepsia partialis continua,EPIL_COD,Epilepsy diagnosis codes,241006,1497017
+2502371000006116,Motor simple partial status,EPIL_COD,Epilepsy diagnosis codes,241006,1223213018
+2502381000006118,Kojewnikov's epilepsy,EPIL_COD,Epilepsy diagnosis codes,241006,3008503017
+2502391000006115,Focal status epilepticus,EPIL_COD,Epilepsy diagnosis codes,241006,3011480015
+2502401000006118,Kojevnikov epilepsy,EPIL_COD,Epilepsy diagnosis codes,241006,3012395017
+2550890017,Generalised nonconvulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,192979009,297264018
+2612101000006119,Petit mal status,EPIL_COD,Epilepsy diagnosis codes,7033004,12602012
+2612111000006116,Epileptic absence status,EPIL_COD,Epilepsy diagnosis codes,7033004,12603019
+2612121000006112,Non-convulsive status epilepticus with impaired consciousness,EPIL_COD,Epilepsy diagnosis codes,7033004,501552010
+2612131000006110,Prolonged epileptic twilight state,EPIL_COD,Epilepsy diagnosis codes,7033004,501553017
+2612141000006117,Epilepsia minoris continua,EPIL_COD,Epilepsy diagnosis codes,7033004,501554011
+2612161000006118,Status pyknolepticus,EPIL_COD,Epilepsy diagnosis codes,7033004,501556013
+2612171000006113,Spike wave stupor,EPIL_COD,Epilepsy diagnosis codes,7033004,501557016
+2721471000006114,Convulsive status epilepticus,EPIL_COD,Epilepsy diagnosis codes,13973009,475622017
+2811081000006110,Generalized epilepsy,EPIL_COD,Epilepsy diagnosis codes,19598007,32997016
+2950391000006116,Salaam attacks,EPIL_COD,Epilepsy diagnosis codes,28055006,46971011
+2950411000006116,West's syndrome,EPIL_COD,Epilepsy diagnosis codes,28055006,196645013
+2950421000006112,Krampfe salaam attacks,EPIL_COD,Epilepsy diagnosis codes,28055006,1225764018
+2950431000006110,Blitz-Nick-salaam attacks,EPIL_COD,Epilepsy diagnosis codes,28055006,1225765017
+2950441000006117,Salaam attack,EPIL_COD,Epilepsy diagnosis codes,28055006,1225766016
+297060016,Myoclonic encephalopathy,EPIL_COD,Epilepsy diagnosis codes,192845009,297060016
+297266016,Epileptic seizures - atonic,EPIL_COD,Epilepsy diagnosis codes,192981006,297266016
+297267013,Epileptic seizures - akinetic,EPIL_COD,Epilepsy diagnosis codes,192982004,297267013
+297282015,Epileptic seizures - clonic,EPIL_COD,Epilepsy diagnosis codes,192991000,297282015
+297283013,Epileptic seizures - myoclonic,EPIL_COD,Epilepsy diagnosis codes,192992007,297283013
+297284019,Epileptic seizures - tonic,EPIL_COD,Epilepsy diagnosis codes,192993002,297284019
+297289012,Other specified generalised convulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,65120008,108213016
+297290015,Generalised convulsive epilepsy NOS,EPIL_COD,Epilepsy diagnosis codes,65120008,500033015
+297295013,Partial epilepsy with impairment of consciousness,EPIL_COD,Epilepsy diagnosis codes,192999003,297295013
+297296014,Temporal lobe epilepsy,EPIL_COD,Epilepsy diagnosis codes,193000002,297296014
+297300010,Psychosensory epilepsy,EPIL_COD,Epilepsy diagnosis codes,193002005,297300010
+297302019,Epileptic automatism,EPIL_COD,Epilepsy diagnosis codes,193004006,297302019
+297303012,Partial epilepsy with impairment of consciousness NOS,EPIL_COD,Epilepsy diagnosis codes,192999003,297295013
+297311019,Somatosensory epilepsy,EPIL_COD,Epilepsy diagnosis codes,193008009,297311019
+297312014,Partial epilepsy with autonomic symptoms,EPIL_COD,Epilepsy diagnosis codes,193009001,297312014
+297313016,Visceral reflex epilepsy,EPIL_COD,Epilepsy diagnosis codes,193009001,297313016
+297314010,Visual reflex epilepsy,EPIL_COD,Epilepsy diagnosis codes,193010006,297314010
+297315011,Unilateral epilepsy,EPIL_COD,Epilepsy diagnosis codes,193011005,297315011
+297320011,Infantile spasms NOS,EPIL_COD,Epilepsy diagnosis codes,28055006,46968015
+297321010,Kojevnikov's epilepsy,EPIL_COD,Epilepsy diagnosis codes,241006,1498010
+297324019,Other forms of epilepsy,EPIL_COD,Epilepsy diagnosis codes,84757009,178739011
+297325018,Cursive (running) epilepsy,EPIL_COD,Epilepsy diagnosis codes,193021002,297325018
+297330019,Other forms of epilepsy NOS,EPIL_COD,Epilepsy diagnosis codes,84757009,178739011
+299334015,[X]Other generalized epilepsy and epileptic syndromes,EPIL_COD,Epilepsy diagnosis codes,84757009,178739011
+299336018,[X]Other epilepsy,EPIL_COD,Epilepsy diagnosis codes,84757009,178739011
+299337010,[X]Other status epilepticus,EPIL_COD,Epilepsy diagnosis codes,230456007,345339019
+299345017,"[X]Status epilepticus, unspecified",EPIL_COD,Epilepsy diagnosis codes,230456007,345339019
+301541000000116,Simple partial epileptic seizure,EPIL_COD,Epilepsy diagnosis codes,199451000000106,301541000000116
+344986017,Rasmussen syndrome,EPIL_COD,Epilepsy diagnosis codes,230191005,344986017
+345225017,Focal epilepsy,EPIL_COD,Epilepsy diagnosis codes,230381009,345225017
+345281011,Lennox-Gastaut syndrome,EPIL_COD,Epilepsy diagnosis codes,230418006,345281011
+345293019,Lafora disease,EPIL_COD,Epilepsy diagnosis codes,230425004,345293019
+345302015,Ohtahara syndrome,EPIL_COD,Epilepsy diagnosis codes,230429005,345302015
+345318014,Drug-induced epilepsy,EPIL_COD,Epilepsy diagnosis codes,230441003,345318014
+345321011,Menstrual epilepsy,EPIL_COD,Epilepsy diagnosis codes,230444006,345321011
+345323014,Nocturnal epilepsy,EPIL_COD,Epilepsy diagnosis codes,230445007,345323014
+345345010,Complex partial status epilepticus,EPIL_COD,Epilepsy diagnosis codes,230460005,345345010
+3558781000006118,Generalized convulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,65120008,108213016
+3719651000006117,Post-traumatic epilepsy,EPIL_COD,Epilepsy diagnosis codes,75023009,124604012
+3719661000006115,PTE - Post-traumatic epilepsy,EPIL_COD,Epilepsy diagnosis codes,75023009,1233822019
+3796891000006117,Reflex epilepsy,EPIL_COD,Epilepsy diagnosis codes,79745005,132316019
+3796901000006118,Sensory-induced epilepsy,EPIL_COD,Epilepsy diagnosis codes,79745005,1234392012
+3796911000006115,Epilepsy associated with specific stimuli,EPIL_COD,Epilepsy diagnosis codes,79745005,1234393019
+3878481000006113,Epileptic disorder,EPIL_COD,Epilepsy diagnosis codes,84757009,189601011
+3878491000006111,Epileptic,EPIL_COD,Epilepsy diagnosis codes,84757009,506215013
+3878501000006115,EP - Epilepsy,EPIL_COD,Epilepsy diagnosis codes,84757009,506216014
+3955151000006114,Gelastic seizure,EPIL_COD,Epilepsy diagnosis codes,89525009,508549013
+399395015,Progressive myoclonic epilepsy,EPIL_COD,Epilepsy diagnosis codes,267581004,399395015
+399408014,Epilepsy NOS,EPIL_COD,Epilepsy diagnosis codes,84757009,178739011
+4052921000006118,Photogenic epilepsy,EPIL_COD,Epilepsy diagnosis codes,95208000,157722012
+4052931000006115,Television epilepsy,EPIL_COD,Epilepsy diagnosis codes,95208000,157723019
+4052941000006113,Photic epilepsy,EPIL_COD,Epilepsy diagnosis codes,95208000,157724013
+4052951000006110,Epilepsy only in relation to photic stimulation,EPIL_COD,Epilepsy diagnosis codes,95208000,511999019
+4052971000006117,Pure photosensitive epilepsy,EPIL_COD,Epilepsy diagnosis codes,95208000,512001012
+450602015,Motor epilepsy,EPIL_COD,Epilepsy diagnosis codes,307356008,450602015
+450603013,"Jacksonian, focal or motor epilepsy",EPIL_COD,Epilepsy diagnosis codes,307357004,450603013
+453344019,Fit (in known epileptic) NOS,EPIL_COD,Epilepsy diagnosis codes,313307000,457182017
+46968015,West syndrome,EPIL_COD,Epilepsy diagnosis codes,28055006,46968015
+46969011,Infantile spasms,EPIL_COD,Epilepsy diagnosis codes,28055006,46968015
+46970012,Hypsarrhythmia,EPIL_COD,Epilepsy diagnosis codes,28055006,46970012
+46971011,Salaam attacks,EPIL_COD,Epilepsy diagnosis codes,28055006,1225766016
+46972016,Lightning spasms,EPIL_COD,Epilepsy diagnosis codes,28055006,46972016
+472410017,Tonic-clonic epilepsy,EPIL_COD,Epilepsy diagnosis codes,352818000,472410017
+472411018,Grand mal epilepsy,EPIL_COD,Epilepsy diagnosis codes,352818000,472411018
+4769481000006114,Generalized non-convulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,192979009,297263012
+4769491000006112,Generalized nonconvulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,192979009,2550889014
+4769501000006116,Generalised nonconvulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,192979009,2550890017
+4769611000006117,TLE - Temporal lobe epilepsy,EPIL_COD,Epilepsy diagnosis codes,193000002,297297017
+4769621000006113,Psychomotor seizure,EPIL_COD,Epilepsy diagnosis codes,193000002,297298010
+4769641000006118,Mesiobasal limbic epilepsy,EPIL_COD,Epilepsy diagnosis codes,193003000,297301014
+4769661000006119,Automatism petit mal,EPIL_COD,Epilepsy diagnosis codes,193004006,2162223016
+4769671000006114,Automatism absence,EPIL_COD,Epilepsy diagnosis codes,193004006,2162224010
+4769681000006112,Complex partial seizure with automatisms,EPIL_COD,Epilepsy diagnosis codes,193004006,2162225011
+4769691000006110,Complex partial seizures with automatisms,EPIL_COD,Epilepsy diagnosis codes,193004006,2162226012
+4769701000006110,Epileptic complex partial seizures with automatisms,EPIL_COD,Epilepsy diagnosis codes,193004006,2966636015
+4769771000006116,Cursive epilepsy,EPIL_COD,Epilepsy diagnosis codes,193021002,3491715012
+4769781000006118,Running epilepsy,EPIL_COD,Epilepsy diagnosis codes,193021002,3491716013
+4769801000006119,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset,EPIL_COD,Epilepsy diagnosis codes,193022009,297326017
+477355017,Psychomotor epilepsy,EPIL_COD,Epilepsy diagnosis codes,361123003,477355017
+478024019,Alcohol-induced epilepsy,EPIL_COD,Epilepsy diagnosis codes,361268000,478024019
+500033015,Generalised convulsive epilepsy,EPIL_COD,Epilepsy diagnosis codes,65120008,500033015
+5004721000006111,Rasmussen encephalitis,EPIL_COD,Epilepsy diagnosis codes,230191005,344987014
+5007071000006118,Local epilepsy,EPIL_COD,Epilepsy diagnosis codes,230381009,345226016
+5007091000006117,Localization-related epilepsy,EPIL_COD,Epilepsy diagnosis codes,230381009,345228015
+5007171000006117,Benign occipital epilepsy of childhood - early onset variant,EPIL_COD,Epilepsy diagnosis codes,230387008,345236012
+5007681000006112,Unverricht-Lundborg syndrome,EPIL_COD,Epilepsy diagnosis codes,230423006,345289013
+5007691000006110,Unverricht-Lundborg disease,EPIL_COD,Epilepsy diagnosis codes,230423006,345290016
+5007701000006110,Baltic myoclonus epilepsy,EPIL_COD,Epilepsy diagnosis codes,230423006,345291017
+5007721000006117,Lafora body disease,EPIL_COD,Epilepsy diagnosis codes,230425004,345294013
+5008011000006114,Catamenial epilepsy,EPIL_COD,Epilepsy diagnosis codes,230444006,345322016
+5008031000006115,Sleep-related epilepsy,EPIL_COD,Epilepsy diagnosis codes,230445007,345324015
+5008041000006113,Sleep related epilepsy,EPIL_COD,Epilepsy diagnosis codes,230445007,2966648017
+5008051000006110,Night seizure,EPIL_COD,Epilepsy diagnosis codes,230445007,5008051000006110
+5008061000006112,Sleep seizure,EPIL_COD,Epilepsy diagnosis codes,230445007,3491800018
+5008251000006118,Psychomotor status,EPIL_COD,Epilepsy diagnosis codes,230460005,345346011
+512000013,Photosensitive epilepsy,EPIL_COD,Epilepsy diagnosis codes,95208000,512000013
+6028621000006119,Epileptic attack,EPIL_COD,Epilepsy diagnosis codes,313307000,3330456016
+6028631000006116,Epileptic convulsion,EPIL_COD,Epilepsy diagnosis codes,313307000,3332506017
+6028641000006114,Epileptic fit,EPIL_COD,Epilepsy diagnosis codes,313307000,3332508016
+632721000000111,Panayiotopoulos syndrome,EPIL_COD,Epilepsy diagnosis codes,230387008,2793363010
+647301000006112,Epileptic absences,EPIL_COD,Epilepsy diagnosis codes,509341000000107,1132511000000113
+72751000006116,Unverricht - Lundborg disease,EPIL_COD,Epilepsy diagnosis codes,230423006,345289013
+736371000006112,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,EPIL_COD,Epilepsy diagnosis codes,193022009,297327014
+743461000006119,Limbic system epilepsy,EPIL_COD,Epilepsy diagnosis codes,193003000,297301014
+800721000006115,Generalised nonconvulsive epilepsy NOS,EPIL_COD,Epilepsy diagnosis codes,192979009,297264018
+8191681000006117,Petit-mal epilepsy,EPIL_COD,Epilepsy diagnosis codes,509341000000107,1132501000000111
+883041000006118,Petit mal epilepsy,EPIL_COD,Epilepsy diagnosis codes,509341000000107,883041000006118
+883061000006119,Infantile spasms -hysarrythmia,EPIL_COD,Epilepsy diagnosis codes,28055006,883061000006119
+897431000006113,Post traumatic epilepsy,EPIL_COD,Epilepsy diagnosis codes,75023009,897431000006113
+931711000006118,Early infant epileptic encephalopathy wth suppression bursts,EPIL_COD,Epilepsy diagnosis codes,230429005,345301010
+932141000006111,Partial complex seizure,EPIL_COD,Epilepsy diagnosis codes,407675009,932141000006111

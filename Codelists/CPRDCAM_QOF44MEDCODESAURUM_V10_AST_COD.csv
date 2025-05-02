@@ -1,0 +1,102 @@
+medcodeid,term,qofclusterid,qofclusterdesc,qofsnomedctconceptid,snomedctdescriptionid
+104872017,Extrinsic asthma without status asthmaticus,AST_COD,Asthma diagnosis codes,63088003,104872017
+11903851000006115,Severe asthma attack,AST_COD,Asthma diagnosis codes,708038006,145961000006117
+1208969012,Mild asthma,AST_COD,Asthma diagnosis codes,370218001,1208969012
+1208970013,Moderate asthma,AST_COD,Asthma diagnosis codes,370219009,1208970013
+1208971012,Occasional asthma,AST_COD,Asthma diagnosis codes,370220003,1208971012
+1208972017,Severe asthma,AST_COD,Asthma diagnosis codes,370221004,1208972017
+142162019,Byssinosis,AST_COD,Asthma diagnosis codes,85761009,142162019
+145961000006117,Severe asthma attack,AST_COD,Asthma diagnosis codes,708090002,3033029011
+1483199016,Allergic asthma,AST_COD,Asthma diagnosis codes,389145006,1483199016
+1488722011,Asthma night-time symptoms,AST_COD,Asthma diagnosis codes,395022009,1488722011
+151338014,Extrinsic asthma with status asthmaticus,AST_COD,Asthma diagnosis codes,1086701000000102,2722231000000112
+1780388018,Asthma confirmed,AST_COD,Asthma diagnosis codes,401193004,1780388018
+183191000006115,Recurrent wheezy bronchitis,AST_COD,Asthma diagnosis codes,195949008,301450011
+1948051000006112,Asthma-chronic obstructive pulmonary disease overlap syndrom,AST_COD,Asthma diagnosis codes,10692761000119107,3046456013
+21390015,Intrinsic asthma without status asthmaticus,AST_COD,Asthma diagnosis codes,12428000,21390015
+2163183015,Wheezy bronchitis,AST_COD,Asthma diagnosis codes,405944004,2163183015
+2240591000000119,Chronic asthma with fixed airflow obstruction,AST_COD,Asthma diagnosis codes,866881000000101,2240591000000119
+22508019,Flax-dressers' disease,AST_COD,Asthma diagnosis codes,13151001,22508019
+2535857010,Hyperreactive airways disease,AST_COD,Asthma diagnosis codes,195967001,2475605013
+2708611000006116,Strippers' disease,AST_COD,Asthma diagnosis codes,13151001,22509010
+2708621000006112,Stripper's asthma,AST_COD,Asthma diagnosis codes,13151001,2162182018
+2708631000006110,Flax dressers disease,AST_COD,Asthma diagnosis codes,13151001,3035958010
+3005801000006117,EIA - Exercise-induced asthma,AST_COD,Asthma diagnosis codes,31387002,1227504017
+3005811000006119,Exercise induced asthma,AST_COD,Asthma diagnosis codes,31387002,3035282010
+301450011,Chronic asthmatic bronchitis,AST_COD,Asthma diagnosis codes,195949008,301450011
+301451010,Chronic wheezy bronchitis,AST_COD,Asthma diagnosis codes,195949008,301451010
+301480018,Bronchial asthma,AST_COD,Asthma diagnosis codes,195967001,301480018
+301485011,Asthma,AST_COD,Asthma diagnosis codes,195967001,301485011
+301499010,Extrinsic asthma NOS,AST_COD,Asthma diagnosis codes,424643009,2648327010
+301508013,Intrinsic asthma NOS,AST_COD,Asthma diagnosis codes,266361008,396114013
+301509017,Mixed asthma,AST_COD,Asthma diagnosis codes,195977004,301509017
+301511014,Asthma unspecified,AST_COD,Asthma diagnosis codes,195967001,301485011
+3169561000006112,Detergent workers' lung,AST_COD,Asthma diagnosis codes,41553006,69312011
+3169571000006117,Enzyme detergent lung,AST_COD,Asthma diagnosis codes,41553006,69313018
+3169581000006119,Enzyme detergent respiratory disease,AST_COD,Asthma diagnosis codes,41553006,69314012
+3169591000006116,Enzyme lung,AST_COD,Asthma diagnosis codes,41553006,69315013
+3169601000006112,Enzyme lung disease,AST_COD,Asthma diagnosis codes,41553006,69316014
+338238011,Brittle asthma,AST_COD,Asthma diagnosis codes,225057002,338238011
+3425341000006113,Wood asthma,AST_COD,Asthma diagnosis codes,56968009,94731013
+3425351000006110,Wood-workers' asthma,AST_COD,Asthma diagnosis codes,56968009,94732018
+3425361000006112,Wood-workers' lung,AST_COD,Asthma diagnosis codes,56968009,94733011
+3425371000006117,Wood dust asthma,AST_COD,Asthma diagnosis codes,56968009,94734017
+3425381000006119,Saw dust asthma,AST_COD,Asthma diagnosis codes,56968009,94735016
+3425391000006116,Wood dust pneumonitis,AST_COD,Asthma diagnosis codes,56968009,94736015
+3425401000006119,Wood pulp workers' lung,AST_COD,Asthma diagnosis codes,56968009,497732010
+3435971000006119,Industrial asthma,AST_COD,Asthma diagnosis codes,57607007,95787011
+350147016,Childhood asthma,AST_COD,Asthma diagnosis codes,233678006,350147016
+350148014,Late onset asthma,AST_COD,Asthma diagnosis codes,233679003,350148014
+350149018,Late-onset asthma,AST_COD,Asthma diagnosis codes,233679003,350148014
+350151019,Extrinsic asthma with asthma attack,AST_COD,Asthma diagnosis codes,708093000,3083642013
+350152014,Allergic asthma NEC,AST_COD,Asthma diagnosis codes,389145006,1483199016
+350153016,Hay fever with asthma,AST_COD,Asthma diagnosis codes,233683003,350153016
+350154010,Pollen asthma,AST_COD,Asthma diagnosis codes,233683003,350154010
+350156012,Intrinsic asthma with asthma attack,AST_COD,Asthma diagnosis codes,708094006,3032866010
+3894081000006118,Cotton workers' lung disease,AST_COD,Asthma diagnosis codes,85761009,142163012
+3894091000006115,Cotton-dust asthma,AST_COD,Asthma diagnosis codes,85761009,142164018
+3894101000006114,Mill fever,AST_COD,Asthma diagnosis codes,85761009,2672171016
+396114013,Intrinsic asthma,AST_COD,Asthma diagnosis codes,266361008,396114013
+396118011,Status asthmaticus NOS,AST_COD,Asthma diagnosis codes,734904007,3511368015
+396119015,Asthma attack,AST_COD,Asthma diagnosis codes,708038006,3032734012
+396120014,Asthma NOS,AST_COD,Asthma diagnosis codes,195967001,301485011
+409865018,Asthma attack NOS,AST_COD,Asthma diagnosis codes,708038006,3032734012
+419211018,Acute exacerbation of asthma,AST_COD,Asthma diagnosis codes,708038006,3032747019
+456163018,Asthma - currently active,AST_COD,Asthma diagnosis codes,312453004,456163018
+4781521000006110,Airway hyperreactivity,AST_COD,Asthma diagnosis codes,195967001,301478012
+4781531000006113,Asthmatic,AST_COD,Asthma diagnosis codes,195967001,301479016
+4781551000006118,Bronchial hyperreactivity,AST_COD,Asthma diagnosis codes,195967001,301481019
+4781561000006116,BHR - Bronchial hyperreactivity,AST_COD,Asthma diagnosis codes,195967001,301482014
+4781571000006111,Bronchial hyperresponsiveness,AST_COD,Asthma diagnosis codes,195967001,301483016
+4781581000006114,Bronchial hypersensitivity,AST_COD,Asthma diagnosis codes,195967001,301484010
+5054341000006110,Late-onset asthma,AST_COD,Asthma diagnosis codes,233679003,350149018
+5492441000006114,Non-allergic asthma,AST_COD,Asthma diagnosis codes,266361008,396115014
+5492451000006111,Asthma due to internal immunological process,AST_COD,Asthma diagnosis codes,266361008,396116010
+6512381000006116,Atopic asthma,AST_COD,Asthma diagnosis codes,389145006,1493644014
+6550131000006111,Nocturnal asthma,AST_COD,Asthma diagnosis codes,395022009,2956617010
+655601000006113,Exercise induced asthma,AST_COD,Asthma diagnosis codes,31387002,52467014
+655611000006111,Exercise induced asthma,AST_COD,Asthma diagnosis codes,31387002,52467014
+660351000006118,Extrinsic (atopic) asthma,AST_COD,Asthma diagnosis codes,389145006,1493645010
+6720721000006111,Asthmatic bronchitis,AST_COD,Asthma diagnosis codes,405944004,2157699014
+69311016,Detergent asthma,AST_COD,Asthma diagnosis codes,41553006,69311016
+7030311000006117,IgE-mediated allergic asthma,AST_COD,Asthma diagnosis codes,424643009,2644386013
+7030321000006113,IgE mediated asthma,AST_COD,Asthma diagnosis codes,424643009,2648326018
+7030341000006118,IgE mediated allergic asthma,AST_COD,Asthma diagnosis codes,424643009,2648328017
+7030351000006116,Immunoglobulin E-mediated allergic asthma,AST_COD,Asthma diagnosis codes,424643009,2969326017
+7627241000006119,Acute exacerbation of asthma,AST_COD,Asthma diagnosis codes,708038006,7627241000006119
+7628191000006118,Acute severe exacerbation of asthma,AST_COD,Asthma diagnosis codes,708090002,7628191000006118
+7628271000006114,Acute exacerbation of extrinsic asthma,AST_COD,Asthma diagnosis codes,708093000,3032949014
+7628281000006112,Acute exacerbation of immunoglobulin E-mediated allergic asthma,AST_COD,Asthma diagnosis codes,708093000,3083682018
+817361000006114,Hay fever with asthma,AST_COD,Asthma diagnosis codes,233683003,350153016
+8465371000006113,Life threatening acute exacerbation of allergic asthma,AST_COD,Asthma diagnosis codes,1086701000000102,8465371000006113
+8465381000006111,Life threatening acute exacerbation of extrinsic asthma,AST_COD,Asthma diagnosis codes,1086701000000102,2722251000000117
+8465391000006114,Life threatening acute exacerbation of intrinsic asthma,AST_COD,Asthma diagnosis codes,1086711000000100,8465391000006114
+8465401000006111,Life threatening acute exacerbation of non-allergic asthma,AST_COD,Asthma diagnosis codes,1086711000000100,2722281000000111
+885291000006115,Extrinsic asthma - atopy,AST_COD,Asthma diagnosis codes,389145006,885291000006115
+929091000006111,Aspirin induced asthma,AST_COD,Asthma diagnosis codes,407674008,2159273015
+9317331000006113,Asthma-COPD overlap syndrome (ACOS),AST_COD,Asthma diagnosis codes,10692761000119107,3046475015
+9317341000006115,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,AST_COD,Asthma diagnosis codes,10692761000119107,2496071000000117
+94731013,Wood asthma,AST_COD,Asthma diagnosis codes,56968009,497732010
+95786019,Occupational asthma,AST_COD,Asthma diagnosis codes,57607007,95786019
+983771000006118,Work aggravated asthma,AST_COD,Asthma diagnosis codes,57607007,95786019
+98546013,Intrinsic asthma with status asthmaticus,AST_COD,Asthma diagnosis codes,1086711000000100,2722261000000119

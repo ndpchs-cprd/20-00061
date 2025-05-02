@@ -1,0 +1,231 @@
+medcodeid,term,qofclusterid,qofclusterdesc,qofsnomedctconceptid,snomedctdescriptionid
+109915012,Postmyocardial infarction syndrome,CHD_COD,Coronary heart disease (CHD) codes,66189004,500341014
+109916013,Dressler's syndrome,CHD_COD,Coronary heart disease (CHD) codes,66189004,109916013
+116992017,Acute subendocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,70422006,116992017
+118831000006118,Subsequent myocardial infarction of unspecified site,CHD_COD,Coronary heart disease (CHD) codes,194856005,299808017
+1218860015,Acute papillary muscle infarction,CHD_COD,Coronary heart disease (CHD) codes,10273003,1218860015
+12220751000006113,Hemopericardium due to and following acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194862000,3673281015
+12220761000006110,Haemopericardium due to and following acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194862000,3673282010
+12220771000006115,Atrial septal defect due to and following acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194863005,3673273016
+12220781000006117,Rupture of chordae tendinae due to and following acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194866002,3673278013
+12221301000006119,Cardiac rupture due to and following acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,233847009,3673284011
+1227364015,[V]Presence of coronary artery bypass graft - CABG,CHD_COD,Coronary heart disease (CHD) codes,399261000,2986657017
+1229885017,Microinfarction of heart,CHD_COD,Coronary heart disease (CHD) codes,42531007,1229885017
+1234005010,Acute inferoposterior infarction,CHD_COD,Coronary heart disease (CHD) codes,76593002,1234005010
+1234306015,Acute septal infarction,CHD_COD,Coronary heart disease (CHD) codes,79009004,1234306015
+12680701000006118,History of CABG (coronary artery bypass grafting),CHD_COD,Coronary heart disease (CHD) codes,399261000,2780441000000110
+1488382011,Acute coronary syndrome,CHD_COD,Coronary heart disease (CHD) codes,394659003,1488382011
+1550991000000116,Coronary artery bypass graft operation planned,CHD_COD,Coronary heart disease (CHD) codes,698378009,2974157013
+158601000006116,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,CHD_COD,Coronary heart disease (CHD) codes,194865003,299821012
+158611000006118,Ruptur chordae tendinae/curr comp fol acute myocard infarct,CHD_COD,Coronary heart disease (CHD) codes,194866002,299822017
+159001000006119,Rupture papillary muscle/curr comp fol acute myocard infarct,CHD_COD,Coronary heart disease (CHD) codes,194867006,299823010
+1654891000000110,Coronary angioplasty planned,CHD_COD,Coronary heart disease (CHD) codes,698377004,2974242014
+1738171000006114,History of myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,399211009,2986492018
+1780491019,Acute ST segment elevation myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,401303003,1780491019
+1780501013,Acute non-ST segment elevation myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,401314000,1780501013
+1786197015,Coronary thrombosis,CHD_COD,Coronary heart disease (CHD) codes,398274000,1786197015
+1786198013,Thrombosis - coronary,CHD_COD,Coronary heart disease (CHD) codes,398274000,1786198013
+208365015,Postoperative myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,129574000,208365015
+2115181000000110,Coronary microvascular disease,CHD_COD,Coronary heart disease (CHD) codes,810681000000101,2115181000000110
+212061000006119,Postoperative transmural myocardial infarction anterior wall,CHD_COD,Coronary heart disease (CHD) codes,311792005,455418016
+212071000006114,Postoperative transmural myocardial infarction inferior wall,CHD_COD,Coronary heart disease (CHD) codes,311793000,455419012
+212081000006112,Postoperative transmural myocardial infarction other sites,CHD_COD,Coronary heart disease (CHD) codes,129574000,208365015
+212091000006110,Postoperative transmural myocardial infarction unspec site,CHD_COD,Coronary heart disease (CHD) codes,129574000,208365015
+2160096015,Coronary artery bypass graft occlusion,CHD_COD,Coronary heart disease (CHD) codes,408546009,2160096015
+219521000000119,Attack - heart,CHD_COD,Coronary heart disease (CHD) codes,22298006,37443015
+219531000000117,MI - acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,57054005,94884017
+230021000006115,Personal history of myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,399211009,2986492018
+2526351000006116,Healed coronary,CHD_COD,Coronary heart disease (CHD) codes,1755008,1221564010
+2534664018,Ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534664018
+2534674015,Chronic myocardial ischaemia,CHD_COD,Coronary heart disease (CHD) codes,413844008,2534674015
+2536393012,Arteriosclerotic heart disease,CHD_COD,Coronary heart disease (CHD) codes,443502000,2842265012
+2536395017,Coronary artery disease,CHD_COD,Coronary heart disease (CHD) codes,53741008,2536395017
+2537480011,IHD - Ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2537480011
+2537483013,Chronic coronary insufficiency,CHD_COD,Coronary heart disease (CHD) codes,413844008,2537483013
+2571531000006110,Intermediate coronary syndrome,CHD_COD,Coronary heart disease (CHD) codes,4557003,7846012
+2571561000006118,Pre-infarction syndrome,CHD_COD,Coronary heart disease (CHD) codes,4557003,494262012
+2571571000006113,Preinfarction angina,CHD_COD,Coronary heart disease (CHD) codes,4557003,2819370013
+2609111000000119,Non-obstructive coronary atherosclerosis,CHD_COD,Coronary heart disease (CHD) codes,719678003,3317409010
+2619484018,MI - Myocardial infarction aborted,CHD_COD,Coronary heart disease (CHD) codes,194821006,2619484018
+2663441000006117,Acute infarction of papillary muscle,CHD_COD,Coronary heart disease (CHD) codes,10273003,17900011
+2855301000006112,Myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,22298006,37436014
+2855311000006110,Infarction of heart,CHD_COD,Coronary heart disease (CHD) codes,22298006,37441018
+2855321000006119,Cardiac infarction,CHD_COD,Coronary heart disease (CHD) codes,22298006,37442013
+2855341000006114,MI - Myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,22298006,1784872019
+2855351000006111,Myocardial infarct,CHD_COD,Coronary heart disease (CHD) codes,22298006,1784873012
+299707016,Other specified anterior myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,54329005,1231324017
+299708014,Acute anteroapical infarction,CHD_COD,Coronary heart disease (CHD) codes,52035003,3038718019
+299709018,Anterior myocardial infarction NOS,CHD_COD,Coronary heart disease (CHD) codes,54329005,1231324017
+299710011,Posterior myocardial infarction NOS,CHD_COD,Coronary heart disease (CHD) codes,233838001,350371016
+299711010,Lateral myocardial infarction NOS,CHD_COD,Coronary heart disease (CHD) codes,58612006,1231860015
+299712015,True posterior myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194802003,299712015
+299714019,Inferior myocardial infarction NOS,CHD_COD,Coronary heart disease (CHD) codes,73795002,122557015
+299718016,Other acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,57054005,94884017
+299719012,Acute atrial infarction,CHD_COD,Coronary heart disease (CHD) codes,194809007,299719012
+299720018,Other acute myocardial infarction NOS,CHD_COD,Coronary heart disease (CHD) codes,57054005,94884017
+299721019,Acute myocardial infarction NOS,CHD_COD,Coronary heart disease (CHD) codes,57054005,94884017
+299723016,Other acute and subacute ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534663012
+299741012,Preinfarction syndrome NOS,CHD_COD,Coronary heart disease (CHD) codes,4557003,7844010
+299742017,Coronary thrombosis not resulting in myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194821006,299742017
+299745015,Acute coronary insufficiency,CHD_COD,Coronary heart disease (CHD) codes,194823009,299745015
+299750014,Other acute and subacute ischaemic heart disease NOS,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534663012
+299757012,Angina pectoris,CHD_COD,Coronary heart disease (CHD) codes,194828000,299757012
+299758019,Stenocardia,CHD_COD,Coronary heart disease (CHD) codes,194828000,299758019
+299763015,Angina decubitus NOS,CHD_COD,Coronary heart disease (CHD) codes,59021001,98087016
+299765010,Angina pectoris NOS,CHD_COD,Coronary heart disease (CHD) codes,194828000,299757012
+299776014,Other chronic ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,413838009,2534672016
+299782012,Single coronary vessel disease,CHD_COD,Coronary heart disease (CHD) codes,194842008,299782012
+299783019,Double coronary vessel disease,CHD_COD,Coronary heart disease (CHD) codes,194843003,299783019
+299796018,Ischaemic cardiomyopathy,CHD_COD,Coronary heart disease (CHD) codes,194849004,299796018
+299800012,Other specified chronic ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,413838009,2534671011
+299804015,Other specified chronic ischaemic heart disease NOS,CHD_COD,Coronary heart disease (CHD) codes,413838009,2534671011
+299805019,Other chronic ischaemic heart disease NOS,CHD_COD,Coronary heart disease (CHD) codes,413838009,2534672016
+299808017,Subsequent myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194856005,299808017
+299811016,Subsequent myocardial infarction of anterior wall,CHD_COD,Coronary heart disease (CHD) codes,194857001,299811016
+299812011,Subsequent myocardial infarction of inferior wall,CHD_COD,Coronary heart disease (CHD) codes,194858006,299812011
+299813018,Subsequent myocardial infarction of other sites,CHD_COD,Coronary heart disease (CHD) codes,194856005,299808017
+299834013,Other specified ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534664018
+299835014,Ischaemic heart disease NOS,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534664018
+300874013,[X]Other forms of angina pectoris,CHD_COD,Coronary heart disease (CHD) codes,194828000,299757012
+300876010,[X]Other forms of acute ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534663012
+300879015,[X]Other forms of chronic ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,413838009,2534671011
+300881018,[X]Subsequent myocardial infarction of other sites,CHD_COD,Coronary heart disease (CHD) codes,194856005,299808017
+300882013,[X]Subsequent myocardial infarction of unspecified site,CHD_COD,Coronary heart disease (CHD) codes,194856005,299808017
+3185771000006112,Microinfarct of heart,CHD_COD,Coronary heart disease (CHD) codes,42531007,70952012
+32122016,Status anginosus,CHD_COD,Coronary heart disease (CHD) codes,19057007,32122016
+3244701000006112,Subendocardial ischemia,CHD_COD,Coronary heart disease (CHD) codes,46109009,76878014
+3343471000006116,Acute anteroapical myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,52035003,86618010
+3371361000006117,Coronary arteriosclerosis,CHD_COD,Coronary heart disease (CHD) codes,53741008,89331010
+3371371000006112,Arteriosclerotic heart disease,CHD_COD,Coronary heart disease (CHD) codes,53741008,2536393012
+3371381000006110,CAD - Coronary artery disease,CHD_COD,Coronary heart disease (CHD) codes,53741008,2536394018
+3371401000006110,Coronary sclerosis,CHD_COD,Coronary heart disease (CHD) codes,53741008,2536396016
+3371411000006113,CHD - Coronary heart disease,CHD_COD,Coronary heart disease (CHD) codes,53741008,2536397013
+3371421000006117,Coronary heart disease,CHD_COD,Coronary heart disease (CHD) codes,53741008,2536398015
+3381601000006117,Acute myocardial infarction of anterior wall,CHD_COD,Coronary heart disease (CHD) codes,54329005,90302019
+338974012,Ischaemic chest pain,CHD_COD,Coronary heart disease (CHD) codes,225566008,338974012
+3427201000006111,AMI - Acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,57054005,1231678011
+3452181000006112,Acute myocardial infarction of lateral wall,CHD_COD,Coronary heart disease (CHD) codes,58612006,97399018
+3458791000006114,Anginal chest pain at rest,CHD_COD,Coronary heart disease (CHD) codes,59021001,98088014
+350346019,Triple vessel disease of the heart,CHD_COD,Coronary heart disease (CHD) codes,233817007,350346019
+350348018,Stable angina,CHD_COD,Coronary heart disease (CHD) codes,233819005,350348018
+350350014,New onset angina,CHD_COD,Coronary heart disease (CHD) codes,233821000,350350014
+350354017,Silent myocardial ischaemia,CHD_COD,Coronary heart disease (CHD) codes,233823002,350354017
+350376014,Silent myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,233843008,350376014
+3565871000006113,Acute myocardial infarction of inferolateral wall,CHD_COD,Coronary heart disease (CHD) codes,65547006,108912018
+3576371000006117,Postmyocardial infarction syndrome,CHD_COD,Coronary heart disease (CHD) codes,66189004,109915012
+3576391000006116,Postmyocardial infarction pericarditis,CHD_COD,Coronary heart disease (CHD) codes,66189004,109917016
+36036010,Syncope anginosa,CHD_COD,Coronary heart disease (CHD) codes,21470009,36036010
+362461000006119,[X]Acute transmural myocardial infarction of unspecif site,CHD_COD,Coronary heart disease (CHD) codes,57054005,94884017
+3641641000006116,Acute myocardial infarction of anterolateral wall,CHD_COD,Coronary heart disease (CHD) codes,70211005,116613011
+3645351000006114,Acute nontransmural infarction,CHD_COD,Coronary heart disease (CHD) codes,70422006,116993010
+3699911000006119,Acute myocardial infarction of diaphragmatic wall,CHD_COD,Coronary heart disease (CHD) codes,73795002,122559017
+3699921000006110,Acute inferior myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,73795002,1233665015
+37443015,Heart attack,CHD_COD,Coronary heart disease (CHD) codes,22298006,37443015
+3745741000006117,Acute myocardial infarction of inferoposterior wall,CHD_COD,Coronary heart disease (CHD) codes,76593002,127193015
+3784911000006111,Acute myocardial infarction of septum,CHD_COD,Coronary heart disease (CHD) codes,79009004,131106018
+3784921000006115,Acute myocardial infarction of septum alone,CHD_COD,Coronary heart disease (CHD) codes,79009004,131107010
+39111000006114,Other acute and subacute ischaemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534663012
+394541000006112,[X]Ischaemic heart diseases,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534664018
+4031011,Old myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,1755008,4031011
+4032016,Healed myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,1755008,4032016
+442204010,Angina on effort,CHD_COD,Coronary heart disease (CHD) codes,300995000,442204010
+447324018,Acute Q-wave infarct,CHD_COD,Coronary heart disease (CHD) codes,304914007,447324018
+450322013,Acute non-Q wave infarction,CHD_COD,Coronary heart disease (CHD) codes,307140009,450322013
+451132018,[V]Presence of coronary artery bypass graft,CHD_COD,Coronary heart disease (CHD) codes,399261000,1767181012
+451369010,H/O: Myocardial infarction in last year,CHD_COD,Coronary heart disease (CHD) codes,308065005,451369010
+4540461000006118,History of myocardial infarct at age less than sixty,CHD_COD,Coronary heart disease (CHD) codes,161502000,2986996013
+4540481000006111,History of myocardial infarct at age greater than sixty,CHD_COD,Coronary heart disease (CHD) codes,161503005,2986493011
+455422014,Postoperative subendocardial myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,311796008,455422014
+455423016,"Postoperative myocardial infarction, unspecified",CHD_COD,Coronary heart disease (CHD) codes,129574000,208365015
+455641000006112,Acute anterolateral infarction,CHD_COD,Coronary heart disease (CHD) codes,70211005,1233238016
+455651000006114,Acute anteroseptal infarction,CHD_COD,Coronary heart disease (CHD) codes,62695002,104192010
+457531000006110,Acute inferolateral infarction,CHD_COD,Coronary heart disease (CHD) codes,65547006,1232697013
+458410010,Post infarct angina,CHD_COD,Coronary heart disease (CHD) codes,314116003,458410010
+459487012,Refractory angina,CHD_COD,Coronary heart disease (CHD) codes,315025001,459487012
+459488019,Transient myocardial ischaemia,CHD_COD,Coronary heart disease (CHD) codes,315026000,459488019
+459859010,Asymptomatic coronary heart disease,CHD_COD,Coronary heart disease (CHD) codes,315348000,459859010
+460681000006116,Acute transmural myocardial infarction of unspecif site,CHD_COD,Coronary heart disease (CHD) codes,57054005,94884017
+460686018,[V]Presence of aortocoronary bypass graft,CHD_COD,Coronary heart disease (CHD) codes,399261000,1767181012
+4775881000006117,True posterior wall infarction,CHD_COD,Coronary heart disease (CHD) codes,194802003,2535851011
+4775891000006119,Acute myocardial infarction of atrium,CHD_COD,Coronary heart disease (CHD) codes,194809007,2470032018
+4775931000006111,Aborted myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194821006,2619483012
+4775971000006114,Angina,CHD_COD,Coronary heart disease (CHD) codes,194828000,299755016
+4775981000006112,Cardiac angina,CHD_COD,Coronary heart disease (CHD) codes,194828000,299756015
+4776001000006111,Anginal syndrome,CHD_COD,Coronary heart disease (CHD) codes,194828000,299759010
+4776011000006114,AP - Angina pectoris,CHD_COD,Coronary heart disease (CHD) codes,194828000,299760017
+4776021000006118,Ischemic heart disease - angina,CHD_COD,Coronary heart disease (CHD) codes,194828000,299761018
+4776031000006115,Ischaemic heart disease - angina,CHD_COD,Coronary heart disease (CHD) codes,194828000,299762013
+4776051000006110,Single vessel coronary artery disease,CHD_COD,Coronary heart disease (CHD) codes,194842008,2535853014
+4776071000006117,Two coronary vessel disease,CHD_COD,Coronary heart disease (CHD) codes,194843003,299784013
+4776081000006119,Double vessel coronary artery disease,CHD_COD,Coronary heart disease (CHD) codes,194843003,2535854015
+4776121000006117,Generalised ischaemic myocardial dysfunction,CHD_COD,Coronary heart disease (CHD) codes,194849004,299795019
+4776131000006119,Generalized ischemic myocardial dysfunction,CHD_COD,Coronary heart disease (CHD) codes,194849004,299793014
+4776141000006112,Ischemic cardiomyopathy,CHD_COD,Coronary heart disease (CHD) codes,194849004,299794015
+4776171000006116,Reinfarction of myocardium,CHD_COD,Coronary heart disease (CHD) codes,194856005,299809013
+4776221000006110,Hemopericardium as current complication following acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194862000,299817017
+4776251000006118,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,194865003,299820013
+482811000006113,Angina at rest,CHD_COD,Coronary heart disease (CHD) codes,59021001,498328016
+482941000006119,Angina pectoris NOS,CHD_COD,Coronary heart disease (CHD) codes,194828000,299757012
+494260016,Impending infarction,CHD_COD,Coronary heart disease (CHD) codes,25106000,42087013
+494261017,Worsening angina,CHD_COD,Coronary heart disease (CHD) codes,4557003,494261017
+4943331000006119,Ischemic chest pain,CHD_COD,Coronary heart disease (CHD) codes,225566008,338973018
+494438016,Subendocardial ischaemia,CHD_COD,Coronary heart disease (CHD) codes,46109009,494438016
+498031000006112,Atrial septal defect/curr comp folow acut myocardal infarct,CHD_COD,Coronary heart disease (CHD) codes,194863005,299818010
+498328016,Angina at rest,CHD_COD,Coronary heart disease (CHD) codes,59021001,498328016
+5056201000006111,Triple vessel coronary artery disease,CHD_COD,Coronary heart disease (CHD) codes,233817007,2535923015
+5056241000006113,Silent myocardial ischemia,CHD_COD,Coronary heart disease (CHD) codes,233823002,350353011
+5056251000006110,Asymptomatic ischemia,CHD_COD,Coronary heart disease (CHD) codes,233823002,350355016
+5056261000006112,Asymptomatic ischaemia,CHD_COD,Coronary heart disease (CHD) codes,233823002,350356015
+5056461000006113,MI - Silent myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,233843008,350377017
+5056501000006113,Post-infarction ventricular septal defect,CHD_COD,Coronary heart disease (CHD) codes,233846000,350382012
+5056521000006115,Defect of ventricular septum following myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,233846000,3333538017
+537751000006115,Cardiac rupture following myocardial infarction (MI),CHD_COD,Coronary heart disease (CHD) codes,233847009,350383019
+543291000006110,Certain current complication follow acute myocardial infarct,CHD_COD,Coronary heart disease (CHD) codes,371068009,1209776017
+5887611000006117,Exercise-induced angina,CHD_COD,Coronary heart disease (CHD) codes,300995000,442203016
+5887631000006111,Exertional angina,CHD_COD,Coronary heart disease (CHD) codes,300995000,442205011
+5887641000006118,Angina of effort,CHD_COD,Coronary heart disease (CHD) codes,300995000,442206012
+5935321000006111,Acute Q wave myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,304914007,447323012
+595731000006114,Coronary atherosclerosis,CHD_COD,Coronary heart disease (CHD) codes,443502000,2842265012
+5974481000006116,History of myocardial infarction in last year,CHD_COD,Coronary heart disease (CHD) codes,308065005,2986726013
+59952018,Nocturnal angina,CHD_COD,Coronary heart disease (CHD) codes,35928006,59952018
+6053071000006117,Transient myocardial ischemia,CHD_COD,Coronary heart disease (CHD) codes,315026000,459489010
+6056601000006112,DIGAMI - diabetes mellitus insulin-glucose infusion in acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,315287002,459792010
+616081000006113,Diab mellit insulin-glucose infus acute myocardial infarct,CHD_COD,Coronary heart disease (CHD) codes,315287002,459791015
+6348651000006112,Myocardial infarction with complication,CHD_COD,Coronary heart disease (CHD) codes,371068009,6348651000006112
+6546111000006118,ACS - Acute coronary syndrome,CHD_COD,Coronary heart disease (CHD) codes,394659003,2579561010
+6601121000006118,Coronary artery thrombosis,CHD_COD,Coronary heart disease (CHD) codes,398274000,1777817018
+6601131000006115,CT - Coronary thrombosis,CHD_COD,Coronary heart disease (CHD) codes,398274000,1786196012
+6619191000006115,Past history of myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,399211009,1786753012
+6619201000006117,Previous myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,399211009,545891000000115
+6619881000006110,History of coronary artery bypass grafting,CHD_COD,Coronary heart disease (CHD) codes,399261000,6619881000006110
+6619891000006113,Past history of coronary artery bypass grafting,CHD_COD,Coronary heart disease (CHD) codes,399261000,1786776010
+6651221000006117,STEMI - ST elevation myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,401303003,2840840013
+6651391000006114,NSTEMI - Non-ST segment elevation MI,CHD_COD,Coronary heart disease (CHD) codes,401314000,1787486017
+67081000006119,Ventric septal defect/curr comp fol acut myocardal infarctn,CHD_COD,Coronary heart disease (CHD) codes,233846000,350381017
+682481000006118,Myocardial infarction aborted,CHD_COD,Coronary heart disease (CHD) codes,194821006,2619484018
+6847761000006118,Chronic ischemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,413838009,2534671011
+6847871000006116,Chronic myocardial ischemia,CHD_COD,Coronary heart disease (CHD) codes,413844008,2534673014
+6860251000006115,Ischemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2534663012
+6860261000006118,IHD - Ischemic heart disease,CHD_COD,Coronary heart disease (CHD) codes,414545008,2537479013
+72571000006115,Unstable angina,CHD_COD,Coronary heart disease (CHD) codes,4557003,7845011
+7278491000006111,Atherosclerosis of coronary artery,CHD_COD,Coronary heart disease (CHD) codes,443502000,2842574013
+7508001000006112,CABG (Coronary artery bypass grafting) planned,CHD_COD,Coronary heart disease (CHD) codes,698378009,2974213018
+7508011000006110,Coronary artery bypass grafting planned,CHD_COD,Coronary heart disease (CHD) codes,698378009,2974215013
+7508021000006119,CABG (coronary artery bypass graft) operation planned,CHD_COD,Coronary heart disease (CHD) codes,698378009,2337671000000113
+7789771000006114,Non-obstructive atherosclerosis of coronary artery,CHD_COD,Coronary heart disease (CHD) codes,719678003,3317410017
+7844010,Preinfarction syndrome,CHD_COD,Coronary heart disease (CHD) codes,4557003,494262012
+7845011,Unstable angina,CHD_COD,Coronary heart disease (CHD) codes,4557003,7845011
+7847015,Crescendo angina,CHD_COD,Coronary heart disease (CHD) codes,4557003,7847015
+7966931000006114,Angina associated with type 2 diabetes mellitus,CHD_COD,Coronary heart disease (CHD) codes,791000119109,2967773018
+7966941000006116,Angina associated with type II diabetes mellitus,CHD_COD,Coronary heart disease (CHD) codes,791000119109,2967590010
+7966951000006119,Diabetic angina pectoris associated with type 2 diabetes mellitus,CHD_COD,Coronary heart disease (CHD) codes,791000119109,2967662015
+810811000006116,H/O: myocardial infarct <60,CHD_COD,Coronary heart disease (CHD) codes,161502000,251675010
+810821000006112,H/O: myocardial infarct >60,CHD_COD,Coronary heart disease (CHD) codes,161503005,251678012
+813961000006116,Haemopericardium/current comp folow acut myocard infarct,CHD_COD,Coronary heart disease (CHD) codes,194862000,299816014
+884141000006116,Coronary thrombosis,CHD_COD,Coronary heart disease (CHD) codes,57054005,884141000006116
+884151000006119,Myocardial Infarction,CHD_COD,Coronary heart disease (CHD) codes,57054005,884151000006119
+89332015,Atherosclerotic heart disease,CHD_COD,Coronary heart disease (CHD) codes,443502000,2842265012
+931961000006117,Acute coronary syndrome,CHD_COD,Coronary heart disease (CHD) codes,194823009,931961000006117
+94884017,Acute myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,57054005,94884017
+967931000006114,Acute posterolateral myocardial infarction,CHD_COD,Coronary heart disease (CHD) codes,15990001,27071012
+98087016,Angina decubitus,CHD_COD,Coronary heart disease (CHD) codes,59021001,98087016

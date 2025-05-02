@@ -1,0 +1,10 @@
+
+M84.0	Malunion of fracture
+M84.1	Nonunion of fracture 
+M84.2	Delayed union of fracture
+T91.1	Sequelae of fracture of spine
+T92.1	Sequelae of fracture of arm
+T91.2	Sequelae of fracture at wrist and hand level
+T93.1	Sequelae of fracture of femur
+T93.2	Sequelae of other fractures of lower limb
+

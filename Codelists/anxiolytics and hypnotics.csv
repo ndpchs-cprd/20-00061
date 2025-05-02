@@ -1,0 +1,57 @@
+ProdCodeId,DMDCode,TermfromEMIS,ProductName,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,DrugIssues
+466741000033115,321198003,Diazepam 10mg tablets,Diazepam 10mg tablets,Diazepam,10.000mg,Tablet,Oral,15010401,2000000
+466841000033113,321196004,Diazepam 2mg tablets,Diazepam 2mg tablets,Diazepam,2.000mg,Tablet,Oral,15010401,10000000
+466941000033117,321197008,Diazepam 5mg tablets,Diazepam 5mg tablets,Diazepam,5.000mg,Tablet,Oral,15010401,10000000
+578341000033118,321117007,Flurazepam 15mg capsules,Flurazepam 15mg capsules,Flurazepam hydrochloride,15.000mg,Capsule,Oral,4010100,10000
+578441000033112,321118002,Flurazepam 30mg capsules,Flurazepam 30mg capsules,Flurazepam hydrochloride,30.000mg,Capsule,Oral,4010100,9000
+595341000033118,321112001,Flunitrazepam 1mg tablets,Flunitrazepam 1mg tablets,Flunitrazepam,1.000mg,Tablet,Oral, ,3000
+851141000033111,321294008,Lorazepam 1mg tablets,Lorazepam 1mg tablets,Lorazepam,1.000mg,Tablet,Oral,15010401,5000000
+851241000033116,321295009,Lorazepam 2.5mg tablets,Lorazepam 2.5mg tablets,Lorazepam,2.500mg,Tablet,Oral,15010401,300000
+1025741000033113,321314006,Oxazepam 10mg tablets,Oxazepam 10mg tablets,Oxazepam,10.000mg,Tablet,Oral,4010200,800000
+1025841000033115,321315007,Oxazepam 15mg tablets,Oxazepam 15mg tablets,Oxazepam,15.000mg,Tablet,Oral,4010200,400000
+1428241000033118,9107211000001109,Tensium 2mg tablets (DDSA Pharmaceuticals Ltd),Tensium 2mg tablets,Diazepam,2.000mg,Tablet,Oral,15010401,8
+1728141000033116,321203006,Diazepam 5mg/5ml oral solution,Diazepam 5mg/5ml oral solution,Diazepam,1.000mg/1.000ml,Oral solution,Oral,15010401,3000
+2762341000033113,321199006,Diazepam 2mg/5ml oral solution,Diazepam 2mg/5ml oral solution,Diazepam,400.000microgram/1.000ml,Oral solution,Oral,15010401,100000
+2762441000033119,13893211000001109,Diazepam 10mg/5ml oral suspension,Diazepam 10mg/5ml oral suspension,Diazepam,2.000mg/1.000ml,Oral suspension,Oral, ,8000
+3308041000033119,8659811000001106,Lorazepam 500micrograms/5ml oral suspension,Lorazepam 500micrograms/5ml oral suspension,Lorazepam,100.000microgram/1.000ml,Oral suspension,Oral, ,7000
+3345241000033111,13893311000001101,Diazepam 2.5mg/5ml oral suspension,Diazepam 2.5mg/5ml oral suspension,Diazepam,500.000microgram/1.000ml,Oral suspension,Oral, ,7000
+3923841000033119,8624511000001105,Lorazepam 1mg/5ml oral suspension,Lorazepam 1mg/5ml oral suspension,Lorazepam,200.000microgram/1.000ml,Oral suspension,Oral, ,5000
+3979041000033112,426016003,Diazepam 25mg/5ml oral solution,Diazepam 25mg/5ml oral solution,Diazepam,5.000mg/1.000ml,Oral solution,Oral, ,300
+3993641000033114,19677811000001102,Diazepam 2mg/5ml oral suspension,Diazepam 2mg/5ml oral suspension,Diazepam,400.000microgram/1.000ml,Oral suspension,Oral, ,9000
+4663341000033118,8659211000001105,Lorazepam 250micrograms/5ml oral suspension,Lorazepam 250micrograms/5ml oral suspension,Lorazepam,50.000microgram/1.000ml,Oral suspension,Oral, ,400
+5748641000033110,38894311000001101,Diazepam 2mg/5ml oral solution sugar free,Diazepam 2mg/5ml oral solution sugar free,Diazepam,400.000microgram/1.000ml,Oral solution,Oral, ,60000
+5892341000033111,8659611000001107,Lorazepam 500micrograms/5ml oral solution,Lorazepam 500micrograms/5ml oral solution,Lorazepam,100.000microgram/1.000ml,Oral solution,Oral, ,2000
+5892441000033117,8624311000001104,Lorazepam 1mg/5ml oral solution,Lorazepam 1mg/5ml oral solution,Lorazepam,200.000microgram/1.000ml,Oral solution,Oral, ,6000
+5991641000033117,8792711000001108,Diazepam 10mg/5ml oral solution,Diazepam 10mg/5ml oral solution,Diazepam,2.000mg/1.000ml,Oral solution,Oral, ,400
+5991741000033114,8792911000001105,Diazepam 2.5mg/5ml oral solution,Diazepam 2.5mg/5ml oral solution,Diazepam,500.000microgram/1.000ml,Oral solution,Oral, ,900
+11275941000033119,12141711000001106,Oxazepam 10mg/5ml oral suspension,Oxazepam 10mg/5ml oral suspension,Oxazepam,2.000mg/1.000ml,Oral suspension,Oral, ,20
+12503341000033119,34697811000001107,Lorazepam 1mg/ml oral solution sugar free,Lorazepam 1mg/ml oral solution sugar free,Lorazepam,1.000mg/1.000ml,Oral solution,Oral, ,5000
+13058141000033113,377147002,Lorazepam 500microgram tablets,Lorazepam 500microgram tablets,Lorazepam,500.000microgram,Tablet,Oral, ,60000
+13159441000033115,37600511000001104,Lorazepam 1mg orodispersible tablets,Lorazepam 1mg orodispersible tablets,Lorazepam,1.000mg,Orodispersible tablet,Oral, ,700
+13159541000033119,37600611000001100,Lorazepam 2.5mg orodispersible tablets,Lorazepam 2.5mg orodispersible tablets,Lorazepam,2.500mg,Orodispersible tablet,Oral, ,20
+396341000033111,4657511000001100,Dalmane 15mg capsules (Mylan),Dalmane 15mg capsules,Flurazepam hydrochloride,15.000mg,Capsule,Oral,4010100,80000
+396441000033117,4657811000001102,Dalmane 30mg capsules (Mylan),Dalmane 30mg capsules,Flurazepam hydrochloride,30.000mg,Capsule,Oral,4010100,70000
+851341000033114,321123002,Lormetazepam 1mg tablets,Lormetazepam 1mg tablets,Lormetazepam,1.000mg,Tablet,Oral,4010100,400000
+851441000033115,321122007,Lormetazepam 500microgram tablets,Lormetazepam 500microgram tablets,Lormetazepam,500.000microgram,Tablet,Oral,4010100,300000
+939441000033114,514911000001107,Mogadon 5mg tablets (Mylan),Mogadon 5mg tablets,Nitrazepam,5.000mg,Tablet,Oral,4010100,20000
+974341000033116,321129003,Nitrazepam 2.5mg/5ml oral suspension,Nitrazepam 2.5mg/5ml oral suspension,Nitrazepam,500.000microgram/1.000ml,Oral suspension,Oral,4010100,70000
+975341000033115,321127001,Nitrazepam 5mg tablets,Nitrazepam 5mg tablets,Nitrazepam,5.000mg,Tablet,Oral,4010100,8000000
+1363541000033112,3166211000001106,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd),Somnite 2.5mg/5ml oral suspension,Nitrazepam,500.000microgram/1.000ml,Oral suspension,Oral,4010100,40
+1428441000033117,321152004,Temazepam 10mg tablets,Temazepam 10mg tablets,Temazepam,10.000mg,Tablet,Oral,4010100,10000000
+1428541000033116,321153009,Temazepam 20mg tablets,Temazepam 20mg tablets,Temazepam,20.000mg,Tablet,Oral,4010100,4000000
+1699841000033119,35915311000001101,Temazepam 10mg/5ml oral solution sugar free,Temazepam 10mg/5ml oral solution sugar free,Temazepam,2.000mg/1.000ml,Oral solution,Oral,4010100,100000
+5414941000033113,321141005,Nitrazepam 5mg/5ml oral suspension,Nitrazepam 5mg/5ml oral suspension,Nitrazepam,1.000mg/1.000ml,Oral suspension,Oral, ,2000
+1557941000033116,178011000001104,Zimovane LS 3.75mg tablets (Sanofi),Zimovane LS 3.75mg tablets,Zopiclone,3.750mg,Tablet,Oral,4010100,100000
+1558441000033110,810511000001108,Zimovane 7.5mg tablets (Sanofi),Zimovane 7.5mg tablets,Zopiclone,7.500mg,Tablet,Oral,4010100,700000
+1562341000033111,321177003,Zopiclone 3.75mg tablets,Zopiclone 3.75mg tablets,Zopiclone,3.750mg,Tablet,Oral,4010100,10000000
+1563241000033113,321175006,Zopiclone 7.5mg tablets,Zopiclone 7.5mg tablets,Zopiclone,7.500mg,Tablet,Oral,4010100,20000000
+1713541000033112,224011000001106,Zileze 3.75 tablets (Opus Pharmaceuticals Ltd),Zileze 3.75 tablets,Zopiclone,3.750mg,Tablet,Oral,4010100,1000
+1713641000033113,562111000001100,Zileze 7.5 tablets (Opus Pharmaceuticals Ltd),Zileze 7.5 tablets,Zopiclone,7.500mg,Tablet,Oral,4010100,3000
+4957241000033112,8799011000001104,Zopiclone 3.75mg/5ml oral suspension,Zopiclone 3.75mg/5ml oral suspension,Zopiclone,750.000microgram/1.000ml,Oral suspension,Oral, ,6000
+5978741000033112,8798911000001108,Zopiclone 7.5mg/5ml oral suspension,Zopiclone 7.5mg/5ml oral suspension,Zopiclone,1.500mg/1.000ml,Oral suspension,Oral, ,700
+6456641000033117,19609611000001101,Zopiclone 3.75mg/5ml oral solution,Zopiclone 3.75mg/5ml oral solution,Zopiclone,750.000microgram/1.000ml,Oral solution,Oral, ,3000
+9177941000033119,24510911000001105,Zopiclone 7.5mg/5ml oral solution,Zopiclone 7.5mg/5ml oral solution,Zopiclone,1.500mg/1.000ml,Oral solution,Oral, ,1000
+1386141000033114,3206111000001102,Stilnoct 5mg tablets (Sanofi),Stilnoct 5mg tablets,Zolpidem tartrate,5.000mg,Tablet,Oral,4010100,100000
+1387141000033111,3199611000001102,Stilnoct 10mg tablets (Sanofi),Stilnoct 10mg tablets,Zolpidem tartrate,10.000mg,Tablet,Oral,4010100,90000
+1562141000033113,321183000,Zolpidem 5mg tablets,Zolpidem 5mg tablets,Zolpidem tartrate,5.000mg,Tablet,Oral,4010100,1000000
+1562441000033117,321184006,Zolpidem 10mg tablets,Zolpidem 10mg tablets,Zolpidem tartrate,10.000mg,Tablet,Oral,4010100,2000000

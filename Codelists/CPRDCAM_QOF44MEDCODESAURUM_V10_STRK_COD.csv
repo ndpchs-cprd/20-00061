@@ -1,0 +1,123 @@
+medcodeid,term,qofclusterid,qofclusterdesc,qofsnomedctconceptid,snomedctdescriptionid
+118689010,Cerebral thrombosis,STRK_COD,Stroke diagnosis codes,71444005,118689010
+11878511000006113,Cerebrovascular accident due to occlusion of cerebral artery,STRK_COD,Stroke diagnosis codes,230691006,3636108019
+11903571000006110,Stroke due to intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,11903571000006110
+11919571000006110,[X]Other intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,11919571000006110
+1212072018,Occlusive stroke,STRK_COD,Stroke diagnosis codes,373606000,1212072018
+12223101000006118,Intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,3673215016
+12223111000006115,Intracerebral hemorrhage,STRK_COD,Stroke diagnosis codes,274100004,3673216015
+12223121000006111,ICH - intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,3673217012
+12223131000006114,ICH - intracerebral hemorrhage,STRK_COD,Stroke diagnosis codes,274100004,3673218019
+1222398015,Cerebral arterial occlusion,STRK_COD,Stroke diagnosis codes,20059004,1222398015
+122361000006113,Stroke due to cerebral arterial occlusion,STRK_COD,Stroke diagnosis codes,230691006,345638019
+122371000006118,Stroke due to intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,409860011
+122401000006115,Stroke unspecified,STRK_COD,Stroke diagnosis codes,230690007,345637012
+1235534016,Binswanger's encephalopathy,STRK_COD,Stroke diagnosis codes,90099008,1235534016
+125470015,Cerebral embolism,STRK_COD,Stroke diagnosis codes,75543006,125470015
+12722481000006116,"Right sided intracerebral haemorrhage, unspecified",STRK_COD,Stroke diagnosis codes,308128006,451441015
+12762021000006116,Cerebral hemorrhage,STRK_COD,Stroke diagnosis codes,274100004,605471000006112
+13031191000006112,Cerebral hemorrhage,STRK_COD,Stroke diagnosis codes,274100004,122371000006118
+130375018,Lateral medullary syndrome,STRK_COD,Stroke diagnosis codes,78569004,130375018
+149347010,Binswanger's disease,STRK_COD,Stroke diagnosis codes,90099008,149347010
+158118014,Cerebellar infarction,STRK_COD,Stroke diagnosis codes,95460007,158118014
+218511000000117,Infarction - cerebral,STRK_COD,Stroke diagnosis codes,432504007,2770034014
+2474651019,Infarction of basal ganglia,STRK_COD,Stroke diagnosis codes,413102000,2474651019
+2622631000006114,Intrapontine haemorrhage,STRK_COD,Stroke diagnosis codes,7713009,503468012
+2622641000006116,Intrapontine hemorrhage,STRK_COD,Stroke diagnosis codes,7713009,13755017
+2622651000006119,Pontine hemorrhage,STRK_COD,Stroke diagnosis codes,7713009,13756016
+2818821000006111,Occlusion of cerebral artery,STRK_COD,Stroke diagnosis codes,20059004,2966627019
+299342019,[X]Other lacunar syndromes,STRK_COD,Stroke diagnosis codes,230698000,345651012
+300276019,External capsule haemorrhage,STRK_COD,Stroke diagnosis codes,195167002,300276019
+300287010,Intracerebral haemorrhage NOS,STRK_COD,Stroke diagnosis codes,274100004,2819959010
+300312010,Cerebral infarct due to thrombosis of precerebral arteries,STRK_COD,Stroke diagnosis codes,195185009,300312010
+300313017,Cerebral infarction due to embolism of precerebral arteries,STRK_COD,Stroke diagnosis codes,195186005,300313017
+300321011,Cerebral infarction due to thrombosis of cerebral arteries,STRK_COD,Stroke diagnosis codes,195189003,300321011
+300322016,Cerebral infarction due to embolism of cerebral arteries,STRK_COD,Stroke diagnosis codes,195190007,300322016
+300362017,Middle cerebral artery syndrome,STRK_COD,Stroke diagnosis codes,195209007,300362017
+300363010,Anterior cerebral artery syndrome,STRK_COD,Stroke diagnosis codes,195210002,300363010
+300364016,Posterior cerebral artery syndrome,STRK_COD,Stroke diagnosis codes,195211003,300364016
+300366019,Cerebellar stroke syndrome,STRK_COD,Stroke diagnosis codes,195213000,300366019
+300370010,Left sided CVA,STRK_COD,Stroke diagnosis codes,195216008,300370010
+300371014,Right sided CVA,STRK_COD,Stroke diagnosis codes,195217004,300371014
+300939013,[X]Other intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,409860011
+300941014,[X]Other cerebral infarction,STRK_COD,Stroke diagnosis codes,432504007,2770034014
+300943012,[X]Occlusion and stenosis of other cerebral arteries,STRK_COD,Stroke diagnosis codes,20059004,33759015
+300956017,"[X]Intracerebral haemorrhage in hemisphere, unspecified",STRK_COD,Stroke diagnosis codes,274100004,409860011
+3299621000006119,Cortical hemorrhage,STRK_COD,Stroke diagnosis codes,49422009,82320015
+3346051000006110,Internal capsule hemorrhage,STRK_COD,Stroke diagnosis codes,52201006,86879010
+345639010,Infarction - precerebral,STRK_COD,Stroke diagnosis codes,230692004,345639010
+345650013,Brainstem infarction NOS,STRK_COD,Stroke diagnosis codes,95457000,158113017
+345655015,Pure motor lacunar syndrome,STRK_COD,Stroke diagnosis codes,230699008,345655015
+345658018,Pure sensory lacunar syndrome,STRK_COD,Stroke diagnosis codes,230700009,345658018
+345675012,Lobar cerebral haemorrhage,STRK_COD,Stroke diagnosis codes,230710000,345675012
+3662311000006113,Thrombosis of cerebral arteries,STRK_COD,Stroke diagnosis codes,71444005,118690018
+3662321000006117,Cerebral arterial thrombosis,STRK_COD,Stroke diagnosis codes,71444005,118691019
+3662331000006119,CT - Cerebral thrombosis,STRK_COD,Stroke diagnosis codes,71444005,1233388010
+370661000006114,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,STRK_COD,Stroke diagnosis codes,125081000119106,3042974014
+370701000006118,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,STRK_COD,Stroke diagnosis codes,20059004,33759015
+3719851000006116,Cerebellar hemorrhage,STRK_COD,Stroke diagnosis codes,75038005,124627016
+3719861000006119,Haemorrhagic cerebellum,STRK_COD,Stroke diagnosis codes,75038005,124628014
+3719871000006114,Hemorrhagic cerebellum,STRK_COD,Stroke diagnosis codes,75038005,124629018
+3728451000006116,Cerebral arterial embolism,STRK_COD,Stroke diagnosis codes,75543006,125471016
+3777981000006119,Posterior inferior cerebellar artery syndrome,STRK_COD,Stroke diagnosis codes,78569004,130373013
+3778011000006112,Inferior cerebellar artery syndrome,STRK_COD,Stroke diagnosis codes,78569004,130376017
+3778021000006116,LMS - Lateral medullary syndrome,STRK_COD,Stroke diagnosis codes,78569004,1234269010
+395780010,Cerebral infarction NOS,STRK_COD,Stroke diagnosis codes,432504007,2770034014
+3964591000006117,Subcortical leucoencephalopathy,STRK_COD,Stroke diagnosis codes,90099008,508841015
+3964601000006113,Subcortical leukoencephalopathy,STRK_COD,Stroke diagnosis codes,90099008,149344015
+3964611000006111,Binswanger's dementia,STRK_COD,Stroke diagnosis codes,90099008,149345019
+3964621000006115,Encephalitis subcorticalis chronica,STRK_COD,Stroke diagnosis codes,90099008,149346018
+3964651000006112,Subcortical arteriosclerotic encephalopathy,STRK_COD,Stroke diagnosis codes,90099008,1235535015
+3964661000006114,Subcortical atherosclerotic dementia,STRK_COD,Stroke diagnosis codes,90099008,1235536019
+3964671000006119,Chronic progressive subcortical encephalopathy,STRK_COD,Stroke diagnosis codes,90099008,1235537011
+405339016,Stroke and cerebrovascular accident unspecified,STRK_COD,Stroke diagnosis codes,230690007,345637012
+4057031000006117,Brain stem infarct,STRK_COD,Stroke diagnosis codes,95457000,158114011
+4057041000006110,Brain stem stroke,STRK_COD,Stroke diagnosis codes,95457000,2966556014
+4057051000006112,Infarction of brain stem,STRK_COD,Stroke diagnosis codes,95457000,2966602014
+411416011,Stroke in the puerperium,STRK_COD,Stroke diagnosis codes,275434003,411416011
+451133011,Left sided cerebral infarction,STRK_COD,Stroke diagnosis codes,307766002,451133011
+451134017,Right sided cerebral infarction,STRK_COD,Stroke diagnosis codes,307767006,451134017
+4777811000006117,Basal ganglia hemorrhage,STRK_COD,Stroke diagnosis codes,195165005,300271012
+4777831000006111,External capsule hemorrhage,STRK_COD,Stroke diagnosis codes,195167002,300275015
+4777881000006112,"Intracerebral haemorrhage, multiple localised",STRK_COD,Stroke diagnosis codes,195169004,300280012
+4777891000006110,"Intracerebral hemorrhage, multiple localized",STRK_COD,Stroke diagnosis codes,195169004,300279014
+4778181000006119,Left sided cerebral hemisphere cerebrovascular accident,STRK_COD,Stroke diagnosis codes,195216008,300369014
+4778201000006118,Right sided cerebral hemisphere cerebrovascular accident,STRK_COD,Stroke diagnosis codes,195217004,300372019
+483988011,Bulbar haemorrhage,STRK_COD,Stroke diagnosis codes,732923001,3467313018
+495394013,Cortical haemorrhage,STRK_COD,Stroke diagnosis codes,49422009,495394013
+496232015,Internal capsule haemorrhage,STRK_COD,Stroke diagnosis codes,52201006,496232015
+5010981000006119,Stroke,STRK_COD,Stroke diagnosis codes,230690007,345636015
+5011021000006113,Cerebrovascular accident due to cerebral artery occlusion,STRK_COD,Stroke diagnosis codes,230691006,2914970017
+5011161000006115,Lacunar stroke,STRK_COD,Stroke diagnosis codes,230698000,345652017
+5011171000006110,LACI - Lacunar infarction,STRK_COD,Stroke diagnosis codes,230698000,345653010
+5011181000006113,LI - Lacunar infarction,STRK_COD,Stroke diagnosis codes,230698000,345654016
+5011191000006111,Pure motor lacunar infarction,STRK_COD,Stroke diagnosis codes,230699008,345656019
+5011211000006112,Pure sensory lacunar infarction,STRK_COD,Stroke diagnosis codes,230700009,345657011
+5011401000006110,Lobar cerebral hemorrhage,STRK_COD,Stroke diagnosis codes,230710000,345674011
+502878012,Cerebellar haemorrhage,STRK_COD,Stroke diagnosis codes,75038005,502878012
+503469016,Pontine haemorrhage,STRK_COD,Stroke diagnosis codes,7713009,503469016
+503791000006114,Basal nucleus haemorrhage,STRK_COD,Stroke diagnosis codes,195165005,300272017
+524511000006116,Brain stem stroke syndrome,STRK_COD,Stroke diagnosis codes,195212005,300365015
+524541000006117,Brainstem infarction,STRK_COD,Stroke diagnosis codes,95457000,158113017
+542251000006112,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",STRK_COD,Stroke diagnosis codes,195230003,300393016
+542261000006114,Cereb infarct due unsp occlus/stenos precerebr arteries,STRK_COD,Stroke diagnosis codes,125081000119106,3042974014
+542831000006116,Cerebral embolus,STRK_COD,Stroke diagnosis codes,75543006,125470015
+543141000006110,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,STRK_COD,Stroke diagnosis codes,20059004,33759015
+5560161000006111,Intracerebral hemorrhage (ICH),STRK_COD,Stroke diagnosis codes,274100004,2819960017
+57341000006119,Wallenberg syndrome,STRK_COD,Stroke diagnosis codes,78569004,130374019
+605461000006117,CVA - cerebral artery occlusion,STRK_COD,Stroke diagnosis codes,230691006,345638019
+605471000006112,CVA - cerebrovascular accid due to intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,409859018
+605481000006110,CVA - cerebrovascular accident in the puerperium,STRK_COD,Stroke diagnosis codes,275434003,411416011
+605491000006113,CVA - Cerebrovascular accident unspecified,STRK_COD,Stroke diagnosis codes,230690007,345635016
+605501000006117,CVA unspecified,STRK_COD,Stroke diagnosis codes,230690007,345637012
+6837051000006119,Basal ganglion stroke,STRK_COD,Stroke diagnosis codes,413102000,2966612019
+6837061000006117,Basal ganglion infarct,STRK_COD,Stroke diagnosis codes,413102000,2966650013
+744901000006114,Intracerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,2819959010
+744921000006116,"Intracerebral haemorrhage in hemisphere, unspecified",STRK_COD,Stroke diagnosis codes,274100004,409860011
+746571000006116,"Intracerebral haemorrhage, multiple localized",STRK_COD,Stroke diagnosis codes,195169004,300280012
+748941000006115,"Left sided intracerebral haemorrhage, unspecified",STRK_COD,Stroke diagnosis codes,274100004,409859018
+7951271000006116,Haemorrhage of medulla oblongata,STRK_COD,Stroke diagnosis codes,732923001,3467314012
+7951281000006118,Hemorrhage of medulla oblongata,STRK_COD,Stroke diagnosis codes,732923001,3467313018
+884421000006119,Cerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,884421000006119
+989201000006117,Cerebral haemorrhage,STRK_COD,Stroke diagnosis codes,274100004,989201000006117
+989211000006119,Cerebral haemorrhage NOS,STRK_COD,Stroke diagnosis codes,274100004,989211000006119

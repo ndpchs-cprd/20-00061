@@ -1,0 +1,30 @@
+medcodeid,term,qofclusterid,qofclusterdesc,qofsnomedctconceptid,snomedctdescriptionid
+105536013,Intermittent claudication,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,63491006,105536013
+1715241000006112,Vascular claudication,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,63491006,105536013
+1847121000006114,Peripheral arterial disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,399957001,1787050010
+235911000006116,Peripheral vascular disease NOS,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+300510018,Other specified peripheral vascular disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+300511019,Peripheral angiopathic disease EC NOS,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+300514010,Other specified peripheral vascular disease NOS,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+300515011,Peripheral vascular disease NOS,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+300963017,[X]Other specified peripheral vascular diseases,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+300970017,[X]Peripheral angiopathy in diseases classified elsewhere,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+350533013,Peripheral ischaemia,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233958001,350533013
+350535018,Peripheral ischaemic vascular disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233958001,350535018
+3532641000006117,Charcot's syndrome,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,63491006,105537016
+3532651000006115,Myasthenia angiosclerotica,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,63491006,105538014
+3532661000006118,IC - Intermittent claudication,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,63491006,1232467011
+395791015,Other peripheral vascular disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,1779317016
+411512011,Claudication,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,63491006,3559347018
+5057981000006111,Peripheral ischemic vascular disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233958001,350534019
+5058001000006116,Peripheral ischemia,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233958001,350536017
+5058071000006110,Lower limb ischaemia,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233961000,350544017
+5058081000006113,Lower limb ischemia,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233961000,350543011
+5058091000006111,Ischemic leg,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233961000,350545016
+6632221000006112,Peripheral arterial occlusive disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,399957001,1779239017
+6632231000006110,PAOD - Peripheral arterial occlusive disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,399957001,1787049010
+6632251000006115,Peripheral angiopathy,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,399957001,1787051014
+6632261000006118,PVD - Peripheral vascular disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,399957001,1787052019
+6632271000006113,Peripheral artery occlusive disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,399957001,2923309015
+6633851000006110,PVD-peripheral vascular disease,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,400047006,2162392019
+742481000006118,Ischaemia of legs,PAD_COD,Peripheral arterial disease (PAD) diagnostic codes,233961000,350546015

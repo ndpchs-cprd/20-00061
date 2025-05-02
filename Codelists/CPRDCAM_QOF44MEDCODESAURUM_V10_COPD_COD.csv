@@ -1,0 +1,101 @@
+medcodeid,term,qofclusterid,qofclusterdesc,qofsnomedctconceptid,snomedctdescriptionid
+105519017,Chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,63480004,105519017
+113497011,Centrilobular emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,68328006,113497011
+11828571000006115,Bronchiolitis fibrosa obliterans,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,40100001,3636165018
+1222334016,Other specified chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475431013
+1222335015,Chronic obstructive pulmonary disease NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475431013
+1230190015,MacLeod's unilateral emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,45145000,1230190015
+123588010,Mucopurulent chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,74417001,123588010
+12704691000006117,Interstitial emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,77690003,770361000006117
+139979010,Fetid chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,84409004,506053014
+161781000006116,Sawyer - Jones syndrome,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,45145000,75284014
+183191000006115,Recurrent wheezy bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195949008,301450011
+19421011,Interstitial emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,77690003,503646013
+1948051000006112,Asthma-chronic obstructive pulmonary disease overlap syndrom,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,10692761000119107,3046456013
+216596014,End stage chronic obstructive airways disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,135836000,216596014
+2240631000000119,Eosinophilic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,866901000000103,2240631000000119
+2578881000006118,Panacinar emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,4981000,9336013
+2578901000006116,Vesicular emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,4981000,9338014
+2578911000006118,Alveolar emphysema of lung,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,4981000,9339018
+269761000006112,Obliterative bronchiolitis due to chemical fumes,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,196027008,301573017
+27096010,Giant bullous emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,16003001,27096010
+2716231000006114,Chronic obstructive lung disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,23287019
+2716241000006116,Chronic airway obstruction,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475419011
+2716251000006119,Chronic irreversible airway obstruction,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475420017
+2716261000006117,Chronic airflow obstruction,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475421018
+2716271000006112,CAFL - Chronic airflow limitation,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475422013
+2716291000006113,CAO - Chronic airflow obstruction,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475424014
+2716301000006114,Chronic airflow limitation,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475425010
+2716311000006112,CAL - Chronic airflow limitation,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475426011
+2716321000006116,COPD - Chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475427019
+2716341000006111,Chronic airway disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475429016
+2716351000006113,COLD - Chronic obstructive lung disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475430014
+285100019,Emphysematous bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,285100019
+285104011,Obstructive chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,285100019
+301127010,Obliterating fibrous bronchiolitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,40100001,66804014
+301444018,Simple chronic bronchitis NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,61937009,102938011
+301448015,Mucopurulent chronic bronchitis NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,74417001,123588010
+301450011,Chronic asthmatic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195949008,301450011
+301451010,Chronic wheezy bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195949008,301451010
+301455018,Obstructive chronic bronchitis NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,285100019
+301456017,Mixed simple and mucopurulent chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195953005,301456017
+301457014,Other chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,63480004,105519017
+301458016,Other chronic bronchitis NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,63480004,105519017
+301459012,Chronic bronchitis NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,63480004,105519017
+301460019,Chronic bullous emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195957006,301460019
+301463017,Segmental bullous emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195958001,301463017
+301464011,Zonal bullous emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195959009,301464011
+301468014,Chronic bullous emphysema NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195957006,301460019
+301469018,Other emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,87433001,144964015
+301470017,Acute vesicular emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195963002,301470017
+301477019,Emphysema NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,87433001,144964015
+301539010,Other specified chronic obstructive airways disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475428012
+301545019,Chronic obstructive airways disease NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475428012
+301572010,Chronic emphysema due to chemical fumes,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,196026004,301572010
+301835010,[X]Other emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,87433001,144964015
+301836011,[X]Other specified chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475431013
+3145221000006111,Obliterative bronchiolitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,40100001,66804014
+3145231000006114,OB - Obliterative bronchiolitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,40100001,492442017
+3228301000006115,Unilateral emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,45145000,75281018
+3228311000006117,MacLeod's syndrome,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,45145000,75282013
+3228321000006113,Unilateral hyperlucent lung,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,45145000,75283015
+3228331000006111,Swyer-James syndrome,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,45145000,75284014
+3611791000006110,Centriacinar emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,68328006,113496019
+3764021000006117,Interstitial emphysema of lung,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,77690003,128944012
+3764031000006119,Interstitial pulmonary emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,77690003,3764031000006119
+3873191000006110,Fetid chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,84409004,139979010
+3921361000006112,Emphysema of lung,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,87433001,144967010
+3955621000006112,Catarrhal bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,89549007,148474017
+396108018,Bullous emphysema with collapse,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,266355005,396108018
+396109014,Atrophic (senile) emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,266356006,396109014
+396110016,Other emphysema NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,87433001,144964015
+4510801000006114,End stage chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,135836000,3034045017
+457168017,Mild chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,313296004,457168017
+457169013,Moderate chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,313297008,457169013
+457171013,Severe chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,313299006,457171013
+457581000006111,Acute interstitial emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,77690003,503646013
+4732991000006119,Chronic bronchitis with emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,285101015
+4733001000006118,Bronchitis with airway obstruction,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,285102010
+4733011000006115,COB - Chronic obstructive bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,285103017
+4733021000006111,Obstructive chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,285104011
+4733031000006114,Chronic obstructive bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,185086009,2668815014
+475431013,Chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475431013
+4781461000006117,Emphysematous bulla,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195957006,301461015
+4781471000006112,Bullous emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,195957006,301462010
+4781821000006113,Chronic emphysema caused by chemical fumes,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,196026004,3296151011
+4781831000006111,Toxic bronchiolitis obliterans,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,196027008,301573017
+4781841000006118,Chemical bronchiolitis obliterans,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,196027008,301574011
+492443010,Bronchiolitis obliterans,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,40100001,492443010
+506053014,Purulent chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,84409004,506053014
+508561017,Simple chronic bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,61937009,102938011
+508562012,Chronic catarrhal bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,89549007,508562012
+516801000000112,Very severe chronic obstructive pulmonary disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,293991000000106,516801000000112
+555471000006114,Chronic obstructive airways disease,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,475423015
+640491000006111,Emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,87433001,144964015
+87480013,Chronic tracheobronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,52571006,87480013
+885281000006118,Mucopurulent chr. bronchitis,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,74417001,885281000006118
+9317331000006113,Asthma-COPD overlap syndrome (ACOS),COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,10692761000119107,3046475015
+9317341000006115,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,10692761000119107,2496071000000117
+9337016,Panlobular emphysema,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,4981000,9337016
+990641000006110,Chronic obst. pulm. dis. NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,990641000006110
+990651000006112,Chr. airway obstruction NOS,COPD_COD,Chronic obstructive pulmonary disease (COPD) codes,13645005,990651000006112

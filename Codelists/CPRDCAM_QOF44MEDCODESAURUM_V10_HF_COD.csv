@@ -1,0 +1,42 @@
+medcodeid,term,qofclusterid,qofclusterdesc,qofsnomedctconceptid,snomedctdescriptionid
+139475013,Heart failure,HF_COD,Heart failure codes,84114007,139475013
+139481017,Weak heart,HF_COD,Heart failure codes,84114007,139475013
+139482012,Cardiac failure,HF_COD,Heart failure codes,84114007,139482012
+141306010,Left ventricular failure,HF_COD,Heart failure codes,85232009,141306010
+147247018,Chronic congestive heart failure,HF_COD,Heart failure codes,88805009,147247018
+1647701000000118,Heart failure with normal ejection fraction,HF_COD,Heart failure codes,446221000,2883808011
+1661371000000112,HFNEF - heart failure with normal ejection fraction,HF_COD,Heart failure codes,446221000,1713091000000115
+1816101000006113,Right ventricular failure,HF_COD,Heart failure codes,367363000,490972013
+18472010,Acute congestive heart failure,HF_COD,Heart failure codes,10633002,18472010
+206703015,Right heart failure,HF_COD,Heart failure codes,128404006,206703015
+2227501000000110,Heart failure with preserved ejection fraction,HF_COD,Heart failure codes,446221000,2227501000000110
+223981000000118,Cardiac failure NOS,HF_COD,Heart failure codes,84114007,139482012
+2616470012,New York Heart Association Classification - Class I,HF_COD,Heart failure codes,420300004,2616470012
+2616471011,New York Heart Association Classification - Class II,HF_COD,Heart failure codes,421704003,2616471011
+2616472016,New York Heart Association Classification - Class III,HF_COD,Heart failure codes,420913000,2616472016
+2616473014,New York Heart Association Classification - Class IV,HF_COD,Heart failure codes,422293003,2616473014
+2675255018,Congestive heart failure due to valvular disease,HF_COD,Heart failure codes,426611007,2675255018
+300179017,Decompensated cardiac failure,HF_COD,Heart failure codes,195111005,300179017
+300180019,Compensated cardiac failure,HF_COD,Heart failure codes,195112003,300180019
+300190010,Acute left ventricular failure,HF_COD,Heart failure codes,195114002,300190010
+3182531000006110,Congestive heart disease,HF_COD,Heart failure codes,42343007,70654011
+3182541000006117,Congestive cardiac failure,HF_COD,Heart failure codes,42343007,493287011
+3182551000006115,CCF - Congestive cardiac failure,HF_COD,Heart failure codes,42343007,493288018
+3182561000006118,CHF - Congestive heart failure,HF_COD,Heart failure codes,42343007,493289014
+350484012,Heart failure as a complication of care,HF_COD,Heart failure codes,233924009,350484012
+3868311000006117,Myocardial failure,HF_COD,Heart failure codes,84114007,139480016
+3868321000006113,Weak heart,HF_COD,Heart failure codes,84114007,139481017
+3868341000006118,HF - Heart failure,HF_COD,Heart failure codes,84114007,1234906013
+3868351000006116,Cardiac insufficiency,HF_COD,Heart failure codes,84114007,2969213019
+3886041000006118,Left heart failure,HF_COD,Heart failure codes,85232009,141303019
+3886061000006119,Left-sided heart failure,HF_COD,Heart failure codes,85232009,201199018
+3886071000006114,LVF - Left ventricular failure,HF_COD,Heart failure codes,85232009,1235017018
+395772015,Heart failure NOS,HF_COD,Heart failure codes,84114007,139475013
+4005301000006110,Biventricular failure,HF_COD,Heart failure codes,92506005,510016018
+490972013,Right ventricular failure,HF_COD,Heart failure codes,367363000,490972013
+493287011,Congestive cardiac failure,HF_COD,Heart failure codes,42343007,70653017
+510016018,Biventricular failure,HF_COD,Heart failure codes,92506005,153058012
+70653017,Congestive heart failure,HF_COD,Heart failure codes,42343007,70653017
+72934016,Rheumatic left ventricular failure,HF_COD,Heart failure codes,43736008,72934016
+7321121000006119,Heart failure with preserved ejection fraction,HF_COD,Heart failure codes,446221000,3496968011
+94251011,Acute heart failure,HF_COD,Heart failure codes,56675007,94251011
